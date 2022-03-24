@@ -37,33 +37,6 @@ p.subheader {
 
 div {
   font-weight: bold;
-  color: #ffd6e6;
+  color: #ad0042;
   margin: 5px;
-}
-
-img {
-  padding: 3pt;
-  float: right;
-}
-
-a {
-  text-decoration: none;
-}
-
-a:link,
-a:visited {
-  color: #e0e8ff;
-}
-
-a:hover,
-a:active {
-  color: #ffeddb;
-}
-
-div.footer {
-  font-size: 9pt;
-  font-style: italic;
-  line-height: 12pt;
-  text-align: center;
-  padding-top: 30pt;
 }
